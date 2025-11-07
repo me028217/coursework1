@@ -14,5 +14,5 @@ public class Volume {
         System.out.println(volume);
         return volume;  
     }
-    //not sure if i have to ask the user for a diameter, so Ill check this and edit later if needed
+    //not sure if i have to ask the user for a diameter, so Ill check this and edit later
 }

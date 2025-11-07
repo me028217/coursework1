@@ -1,4 +1,3 @@
-
 public class SevenSegment {
     public static void main(String[] args) {
         int n = 29; //number to be displayed
@@ -35,10 +34,6 @@ public class SevenSegment {
             case 24 -> "|   ";
             case 5, 25, 35, 55, 65, 85, 95 -> " -- ";
             default -> "    ";
-        }; // Line 1: Top horizontal
-        // Line 2: Upper verticals
-        // Line 3: Middle horizontal
-        // Line 4: Lower verticals
-        // Line 5: Bottom horizontal
+        }; 
    }
 }

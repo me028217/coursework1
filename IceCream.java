@@ -32,7 +32,7 @@ public class IceCream {
         }
         scanner.close();
 
-        double price = 100.0; // base price due to cone
+        double price = 100.0; // cone price in pence
         switch (flavour) {
             case "v" -> price += vanilla * scoops;
             case "c" -> price += chocolate * scoops;

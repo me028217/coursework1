@@ -17,7 +17,6 @@ public class AverageGrades {
             }
             averages[i] = (int)(total / 100);
         }
-
         return averages;
     }
 }
